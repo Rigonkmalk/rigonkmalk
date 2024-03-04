@@ -2,7 +2,7 @@
 
 Paul Azema or Rigonkmalk for the intimate.
 
-Working actually on [SaaS IT Monitoring Platform](https://centreon.com) :computer:
+Working actually on [SaaS IT Monitoring Platform Centreon !](https://centreon.com) :computer:
 
 This Profile hasn't good commit score tbh, as you can see :
 
